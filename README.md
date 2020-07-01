@@ -1,4 +1,4 @@
-# Scene-Classification-Images-and-Audio
+# Multimodal Scene Classification Dataset: Images and Audio
 Visuals and Sound extracted from Video for Scene Classification experiments
 
 https://www.kaggle.com/birdy654/scene-classification-images-and-audio
