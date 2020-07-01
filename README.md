@@ -26,12 +26,12 @@ Class data are given as strings in dataset.csv
 Each row of the dataset contains a path to the image, as well as the MFCC data extracted from the second of video that accompany the frame.
 
 ##MFCC Extraction
-(copied and pasted from the WIP paper)
+(copied and pasted from the paper)
 we extract the the Mel-Frequency Cepstral Coefficients (MFCC) of the audio clips through a set of sliding windows 0.25s in length (ie frame size of 4K sampling points) and an additional set of overlapping windows, thus producing 8 sliding windows, 8 frames/sec. From each audio-frame, we extract 13 MFCC attributes, producing 104 attributes per 1 second clip.
 
 These are numbered in sequence from MFCC_1
 
-##Two Classes?
+## Two Class Columns?
 The original study deals with Class 2 (the actual environment, 8 classes) but we have included Class 1 also. Class 1 is a much easier binary classification problem of "Outdoors" and "Indoors"
 
 
