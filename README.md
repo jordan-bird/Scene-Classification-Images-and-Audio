@@ -1,6 +1,7 @@
 # Scene-Classification-Images-and-Audio
 Visuals and Sound extracted from Video for Scene Classification experiments
 
+https://www.kaggle.com/birdy654/scene-classification-images-and-audio
 
 
 ## Do images and audio complement one another in scene classification?
