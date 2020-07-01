@@ -13,6 +13,7 @@ In this dataset, you will notice some common errors from single classifiers. For
 ## Please cite this study if you use the dataset
 
 **Look and Listen: A Multi-Modal Late Fusion Approach to Scene Classification for Autonomous Machines**
+
 **Jordan J. Bird, Diego R. Faria, Cristiano Premebida, Aniko Ekart, and George Vogiatzis**
 
 ## Context
