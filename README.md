@@ -36,9 +36,3 @@ These are numbered in sequence from MFCC_1
 ## Two Class Columns?
 The original study deals with Class 2 (the actual environment, 8 classes) but we have included Class 1 also. Class 1 is a much easier binary classification problem of "Outdoors" and "Indoors"
 
-
-## Acknowledgements
-
-Paper currently under peer review (1st Feb 2020), check back soon for the reference!
-
-**Please cite this study if you use the dataset**
